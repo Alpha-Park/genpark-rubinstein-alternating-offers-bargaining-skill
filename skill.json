@@ -1,0 +1,15 @@
+{
+  "name": "genpark-rubinstein-alternating-offers-bargaining-skill",
+  "version": "1.0.0",
+  "description": "Rubinstein alternating-offers bargaining protocol computing SPE shares.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "rubinstein-bargaining",
+    "alternating-offers",
+    "subgame-perfect-equilibrium",
+    "negotiation",
+    "agentic-ai"
+  ]
+}
